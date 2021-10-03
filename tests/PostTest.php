@@ -1,5 +1,5 @@
 <?php
-class PostTest extends PHPUnit_Framework_TestCase
+class PostTest extends PHPUnit\Framework\TestCase
 {
     /** @test */
     function it_gives_us_the_author_name()

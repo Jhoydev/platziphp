@@ -1,5 +1,5 @@
 <?php
-class UserTest extends PHPUnit_Framework_TestCase
+class UserTest extends PHPUnit\Framework\TestCase
 {
     /** @test */
     function it_should_be_able_to_construct()

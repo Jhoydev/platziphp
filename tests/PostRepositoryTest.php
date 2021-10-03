@@ -2,7 +2,7 @@
 use Illuminate\Support\Collection;
 use PlatziPHP\Infrastructure\PostRepository;
 
-class PostRepositoryTest extends PHPUnit_Framework_TestCase
+class PostRepositoryTest extends PHPUnit\Framework\TestCase
 {
     function test_all_posts()
     {
